@@ -10,6 +10,7 @@ require (
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.5
+	golang.org/x/sys v0.0.0-20220829200755-d48e67d00261 // indirect
 	google.golang.org/appengine v1.6.1 // indirect
 	k8s.io/api v0.17.7
 	k8s.io/apimachinery v0.17.7
